@@ -1,3 +1,12 @@
+/*
+Write a program that takes in a number N as input and does the following:
+
+if N is a multiple of 3, print Fizz
+if N is a multiple of 5, print Buzz
+if N is a multiple of both 3 and 5, print FizzBuzz
+    */
+
+
 import java.lang.*;
 import java.util.*;
 
