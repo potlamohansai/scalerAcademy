@@ -1,3 +1,13 @@
+/*Problem Description
+Write a program to input two integers A & B from user and print their HCF.
+
+Definition Of HCF: The HCF(Highest Common Factor) or the GCD(greatest common divisor) of two positive integers happens to be the largest positive integer that divides the numbers without leaving a remainder.
+
+Problem Constraints
+1 <= A,B <= 100000
+    */
+
+
 import java.lang.*;
 import java.util.*;
 
