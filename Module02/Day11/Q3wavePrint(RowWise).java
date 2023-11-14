@@ -1,3 +1,17 @@
+/*
+Problem Description
+You are given an integer matrix mat and you have to print the elements of the matrix in wave form (row wise)
+
+See example for clarifications regarding wave print.
+
+
+Problem Constraints
+1 <= N <= 103
+
+0 <= Mat[i][j] <= 109
+    */
+
+
 import java.lang.*;
 import java.util.*;
 
