@@ -1,3 +1,14 @@
+/*
+Problem Description
+You are given an array A of N integers. Return the count of elements with frequncy 1 in the given array.
+
+
+Problem Constraints
+1 <= N <= 105
+1 <= A[i] <= 109
+    */
+
+
 public class Solution {
     public int solve(ArrayList<Integer> A) {
         int len = A.size();
