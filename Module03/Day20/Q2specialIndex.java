@@ -1,3 +1,15 @@
+/*Problem Description
+Given an array, arr[] of size N, the task is to find the count of array indices such that removing an element from these indices makes the sum of even-indexed and odd-indexed array elements equal.
+
+Problem Constraints
+1 <= N <= 10^5
+-10^5 <= A[i] <= 10^5
+Sum of all elements of A <= 10^9
+*/
+
+//Time Complexity:O(N)
+//Space Complexity:O(N)
+
 public class Solution {
     public int solve(int[] A) {
         int len = A.length;
